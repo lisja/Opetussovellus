@@ -1,2 +1,2 @@
-# Tietokantasovellus_s2021
-Tietokantasovellus, periodi II
+# Opetussovellus
+Opetussovellus (Tietokantasovellus, periodi II)
