@@ -13,3 +13,9 @@ Opiskelija pystyy näkemään tilaston, mitkä kurssin tehtävät hän on ratkon
 Opettaja pystyy luomaan uuden kurssin, muuttamaan olemassa olevaa kurssia ja poistamaan kurssin.
 Opettaja pystyy lisäämään kurssille tekstimateriaalia ja tehtäviä. Tehtävä voi olla ainakin monivalinta tai tekstikenttä, johon tulee kirjoittaa oikea vastaus.
 Opettaja pystyy näkemään kurssistaan tilaston, keitä opiskelijoita on kurssilla ja mitkä kurssin tehtävät kukin on ratkonut.
+
+
+NYKYTILA
+Viikko 2:
+- sovelluksen pohja ja tarvittavat osat alkaneet muotoutua (suurin osa ajasta meni tarvittavien ohjelmien yms. asenteluun ja GitHubin + Terminalin käytön ymmärrykseen, koska näistä ei ollut mitään tietoa missään kurssimateriaalissa)
+- ei ole vielä siinä tilassa, että voisi Herokussa testata
