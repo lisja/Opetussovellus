@@ -17,5 +17,5 @@ Opettaja pystyy näkemään kurssistaan tilaston, keitä opiskelijoita on kurssi
 
 NYKYTILA
 Viikko 2:
-- sovelluksen pohja ja tarvittavat osat alkaneet muotoutua (suurin osa ajasta meni tarvittavien ohjelmien yms. asenteluun ja GitHubin + Terminalin käytön ymmärrykseen, koska näistä ei ollut mitään tietoa missään kurssimateriaalissa)
+- sovelluksen pohja ja tarvittavat osat alkaneet muotoutua (suurin osa ajasta meni tarvittavien ohjelmien yms. asenteluun (Ubuntu, PostgreSQL, etc.) ja GitHubin + Terminalin käytön ymmärrykseen, koska näistä ei ollut mitään tietoa missään kurssimateriaalissa)
 - ei ole vielä siinä tilassa, että voisi Herokussa testata
